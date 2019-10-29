@@ -1,1 +1,3 @@
-# documentation
+# Documentation
+
+Visit the wiki.
